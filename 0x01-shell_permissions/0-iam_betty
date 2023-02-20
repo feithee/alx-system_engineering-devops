@@ -1,2 +1,2 @@
 #!/bin/bash
-Su 0-iam_betty
+Su 0-iam_betty >README.md 
